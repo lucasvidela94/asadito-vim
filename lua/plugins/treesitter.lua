@@ -9,5 +9,11 @@ return {
         indent = { enable = true}
       })
     end
+  },
+  {
+    "wuelnerdotexe/vim-astro"
+  },
+  {
+    "joeveiga/ng.nvim"
   }
 }
